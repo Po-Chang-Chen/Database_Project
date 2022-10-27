@@ -1,0 +1,29 @@
+.img {
+    max-height: 300px;
+    max-width: 300px;
+    overflow:hidden;
+    border:1px solid #CDA63C;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+.img .card-img{
+    margin-top: -5%;
+}
+
+.save-botton {
+    background-color: rgb(152, 199, 140);
+}
+
+.edit-botton {
+    background-color: rgb(142, 161, 185);
+}
+
+.cancel-botton {
+    background-color: rgb(211, 150, 160);
+}
+
+.orderImg{
+    max-height: 150px;
+    max-width: 150px;
+}
